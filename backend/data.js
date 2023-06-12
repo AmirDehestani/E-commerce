@@ -30,7 +30,7 @@ const data = {
       category: 'Pants',
       image: '/images/nike-pants.jpg',
       price: 140,
-      countInStock: 40,
+      countInStock: 0,
       brand: 'Nike',
       rating: 4.7,
       numReviews: 9,
